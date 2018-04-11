@@ -1,0 +1,11 @@
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\bin\Debug\netcoreapp2.0\WisMaster_Console.deps.json
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\bin\Debug\netcoreapp2.0\WisMaster_Console.runtimeconfig.json
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\bin\Debug\netcoreapp2.0\WisMaster_Console.runtimeconfig.dev.json
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\bin\Debug\netcoreapp2.0\WisMaster_Console.dll
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\bin\Debug\netcoreapp2.0\WisMaster_Console.pdb
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\obj\Debug\netcoreapp2.0\WisMaster_Console.csprojResolveAssemblyReference.cache
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\obj\Debug\netcoreapp2.0\WisMaster_Console.csproj.CoreCompileInputs.cache
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\obj\Debug\netcoreapp2.0\WisMaster_Console.AssemblyInfoInputs.cache
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\obj\Debug\netcoreapp2.0\WisMaster_Console.AssemblyInfo.cs
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\obj\Debug\netcoreapp2.0\WisMaster_Console.dll
+C:\Users\eugen\Documents\GitHub\WisMaster_Console\WisMaster_Console\obj\Debug\netcoreapp2.0\WisMaster_Console.pdb
