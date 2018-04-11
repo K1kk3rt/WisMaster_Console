@@ -6,7 +6,7 @@ namespace WisMaster_Console
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welkom to WisMaster! Press any key to start...");
         }
     }
 }
